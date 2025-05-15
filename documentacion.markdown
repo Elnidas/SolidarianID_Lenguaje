@@ -1,3 +1,17 @@
+## 📚 Índice
+
+1. [Compilación del dataset (prepare_data_v3.py)](#-documentación-de-utilpreparedatav3py)
+2. [Entrenamiento y evaluación con TF-IDF (train_tfidf_classifiers_v2.py)](#-documentación-de-utiltraintfidfclassifiersv2py)
+3. [Fine-tuning con Transformers (train_transformers_v2.py)](#-documentación-de-utiltraintransformersv2py)
+4. [Evaluación de modelos (evaluate_model_v2.py)](#-documentación-de-utilevaluatemodelv2py)
+5. [Clasificador para la API (offensiveClasifier.py)](#-documentación-de-servicesoffensiveclasifierpy)
+6. [Sistema de recomendación (recommendation.py)](#-documentación-de-servicesrecommendationpy)
+7. [Cliente de la API (api_client.py)](#-documentación-servicesapiclientpy)
+
+
+
+
+
 # 📄 Documentación de `util/prepare_data_v3.py`
 
 > _“Fusiona todos los corpus de discurso ofensivo/odio en español…, los limpia y genera **un único** particionado aleatorio”_ —Docstring original del script.
@@ -775,7 +789,7 @@ Pico memoria GPU  : 1548.4 MB
 ---
 
 
-# 📄 Documentación detallada de `services/offensiveClasifier.py`
+# 📄 Documentación de `services/offensiveClasifier.py`
 
 A continuación se describe **línea por línea** el código que implementa un clasificador binario de texto ofensivo.  
 Se explica lo que hace cada instrucción y, cuando procede, el significado de los argumentos que recibe.
@@ -878,7 +892,7 @@ with torch.no_grad():
 
 ---
 
-# 📄 Documentación detallada de `services/recommendation.py`
+# 📄 Documentación de `services/recommendation.py`
 
 Este script (`recommendation.py`) implementa un conjunto de **módulos de recomendación** para una plataforma de causas y comunidades solidarias. A grandes rasgos, realiza lo siguiente:  
 1. **Carga de modelos de lenguaje**: FastText pre-entrenado y varios Transformers en español (BETO, RoBERTa-BNE).  
@@ -1082,7 +1096,7 @@ Para FastText o Sentence-Transformers el flujo es análogo, cambiando solo la fo
     - Esta variable se utilizará para guardar el token JWT que devuelve el servidor después del inicio de sesión, de modo que pueda reutilizarse en llamadas posteriores.
         
 ## Función asíncrona `login(email, password)`
-Nos sirve para hacer login en la aplicación y posteriormente poder hacer las peticiones pertinentes. Idealmente deberíamos de generar un token sin expiración y guardarlo en el env
+Nos sirve para hacer login en la aplicación y posteriormente poder hacer las peticiones pertinentes. Idealmente, deberíamos de generar un token sin expiración y guardarlo en el .env. **_Ya no se necesita esto puesto que se ha proporcionado un token sin caducidad_**
 ```python
 async def login(email: str, password: str):
     """
@@ -1135,13 +1149,3 @@ async def fetch_data(endpoint: str,params: dict = None):
         
 3. Lanza una excepción en caso de error HTTP y, si todo va bien, devuelve el cuerpo de la respuesta ya deserializado (`response.json()`).
         
-
-### Donde se usa
-
-En el main de la aplicación, cuando arranca obtenemos el token
-
-```python
-@app.on_event("startup")
-async def startup():
-    await login("juan.perez@example.com", "Password123")
-```
