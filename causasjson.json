@@ -1,0 +1,1089 @@
+[
+  {
+    "communityId": "4bb9fe7d-baf1-473f-b908-cfa41e900c31",
+    "title": "Impulso a la Educación Integral en Comunidades Vulnerables",
+    "description": "Esta causa se ha concebido para transformar el acceso a una educación integral en áreas vulnerables, buscando empoderar a niños y adultos mediante programas de formación continua y talleres innovadores. Con el objetivo de fortalecer habilidades técnicas y fomentar el pensamiento crítico, la iniciativa promueve la inclusión social y el desarrollo sostenible. Además, se contempla la colaboración con instituciones locales para implementar estrategias pedagógicas adaptadas a las necesidades específicas de cada comunidad. Este proyecto se enfoca en generar un impacto positivo a largo plazo, asegurando que los beneficiarios cuenten con herramientas para mejorar sus oportunidades de vida y contribuir activamente al crecimiento comunitario.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "QualityEducation",
+      "ReducedInequalities",
+      "DecentWorkAndEconomicGrowth"
+    ]
+  },
+  {
+    "communityId": "4bb9fe7d-baf1-473f-b908-cfa41e900c31",
+    "title": "Promoción de Energías Renovables para el Desarrollo Sostenible",
+    "description": "Con esta causa, se busca impulsar la adopción de energías renovables en comunidades con alto potencial ambiental y económico. La iniciativa se fundamenta en la instalación de infraestructuras que permitan el aprovechamiento de recursos naturales de manera responsable y eficiente, reduciendo la dependencia de fuentes no renovables. Además, se promueve la capacitación técnica y la generación de empleos verdes, incentivando a la población a participar activamente en la transformación energética. El proyecto pretende fomentar una cultura de innovación y sostenibilidad, impulsando cambios significativos que contribuyan a la conservación del medio ambiente y al bienestar social.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "AffordableAndCleanEnergy",
+      "ClimateAction"
+    ]
+  },
+  {
+    "communityId": "4bb9fe7d-baf1-473f-b908-cfa41e900c31",
+    "title": "Iniciativa de Salud Comunitaria y Bienestar Integral",
+    "description": "Esta causa tiene como meta fundamental mejorar la calidad de vida en sectores desfavorecidos a través de un enfoque integral en salud comunitaria. Se propone implementar campañas de prevención, acceso a servicios médicos y talleres de educación en hábitos saludables. Con la colaboración de profesionales del área y organizaciones locales, el proyecto busca erradicar barreras en el acceso a tratamientos y promover el autocuidado. La acción se centra en la formación de comités de salud y en la creación de espacios de apoyo y seguimiento continuo, garantizando un impacto duradero en el bienestar general de la población.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "GoodHealthAndWellBeing",
+      "PartnershipsForTheGoals",
+      "QualityEducation"
+    ]
+  },
+  {
+    "communityId": "4bb9fe7d-baf1-473f-b908-cfa41e900c31",
+    "title": "Proyecto de Inclusión Social y Reducción de Desigualdades",
+    "description": "Esta causa se orienta a la inclusión social de grupos marginados mediante la implementación de programas de integración y capacitación en habilidades laborales. La iniciativa pretende reducir las desigualdades sociales y económicas ofreciendo recursos, mentoría y oportunidades de empleo digno. Se desarrollarán talleres formativos y actividades de apoyo psicosocial, fomentando la participación activa y el empoderamiento de cada individuo. Además, se promoverá la colaboración entre entidades públicas y privadas para crear redes de solidaridad que impulsen el desarrollo local, garantizando un cambio sostenible y real en la calidad de vida de las comunidades involucradas.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "ReducedInequalities",
+      "DecentWorkAndEconomicGrowth"
+    ]
+  },
+  {
+    "communityId": "4bb9fe7d-baf1-473f-b908-cfa41e900c31",
+    "title": "Fomento de la Innovación y el Emprendimiento Social",
+    "description": "Esta causa surge con el propósito de incentivar la innovación y el emprendimiento en sectores con desafíos económicos y sociales. A través de la creación de incubadoras de proyectos y programas de mentoría, se busca fortalecer las capacidades creativas y productivas de jóvenes y adultos. La iniciativa contempla la implementación de soluciones tecnológicas y estrategias de negocio que permitan transformar ideas en proyectos viables y sostenibles. Con el apoyo de expertos y alianzas estratégicas, se promoverá el desarrollo de iniciativas que generen impacto positivo en la comunidad, facilitando el acceso a recursos y oportunidades que potencien el crecimiento personal y colectivo.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "IndustryInnovationAndInfrastructure",
+      "DecentWorkAndEconomicGrowth",
+      "QualityEducation",
+      "GoodHealthAndWellBeing"
+    ]
+  },
+  {
+    "communityId": "dec7f34d-c1cc-4ef6-badf-e1ecb0b239e5",
+    "title": "Campaña de Nutrición y Seguridad Alimentaria",
+    "description": "Esta iniciativa se centra en combatir el hambre y promover una nutrición adecuada en zonas rurales y urbanas. A través de programas de distribución de alimentos y educación en hábitos alimenticios saludables, se pretende fortalecer la seguridad alimentaria y reducir el desperdicio de recursos. La campaña incluye la implementación de huertos comunitarios y talleres de cocina sostenible, involucrando a familias y líderes locales en la toma de decisiones. Con este proyecto se busca no solo aliviar la carencia alimentaria, sino también fomentar la autonomía y resiliencia de la población ante desafíos económicos y climáticos.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "ZeroHunger",
+      "GoodHealthAndWellBeing",
+      "CleanWaterAndSanitation"
+    ]
+  },
+  {
+    "communityId": "dec7f34d-c1cc-4ef6-badf-e1ecb0b239e5",
+    "title": "Proyecto de Conservación Ambiental y Gestión de Residuos",
+    "description": "Con el objetivo de preservar el entorno natural y mejorar la calidad de vida, esta causa propone la implementación de sistemas de reciclaje y gestión de residuos en comunidades urbanas y periurbanas. La iniciativa incluye campañas de concientización ambiental, talleres educativos y la promoción de prácticas de consumo responsable. Se busca involucrar a la ciudadanía en acciones de limpieza y mantenimiento de espacios públicos, fomentando un ambiente más saludable y sostenible. Además, se promoverá la colaboración entre instituciones y organizaciones locales para establecer infraestructuras adecuadas que apoyen la conservación de recursos naturales y la mitigación del cambio climático.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "ClimateAction",
+      "ResponsibleConsumptionAndProduction",
+      "SustainableCitiesAndCommunities"
+    ]
+  },
+  {
+    "communityId": "dec7f34d-c1cc-4ef6-badf-e1ecb0b239e5",
+    "title": "Iniciativa de Desarrollo Comunitario y Fortalecimiento Local",
+    "description": "Esta causa se orienta a impulsar el desarrollo integral de comunidades mediante la creación de redes de apoyo y la implementación de programas de capacitación en oficios y tecnología. Se pretende fomentar la participación ciudadana y fortalecer la identidad local, promoviendo proyectos que integren educación, salud y desarrollo económico. La acción incluye la organización de eventos y talleres colaborativos que estimulen la creatividad y el emprendimiento, facilitando la generación de empleo y la mejora de infraestructuras. Con una estrategia inclusiva, se busca crear un entorno propicio para el crecimiento y la innovación en cada rincón de la comunidad.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "DecentWorkAndEconomicGrowth",
+      "QualityEducation",
+      "GoodHealthAndWellBeing",
+      "PartnershipsForTheGoals"
+    ]
+  },
+  {
+    "communityId": "dec7f34d-c1cc-4ef6-badf-e1ecb0b239e5",
+    "title": "Proyecto de Agua Potable y Saneamiento para Comunidades Rurales",
+    "description": "La presente causa tiene como objetivo garantizar el acceso a agua potable y mejorar el sistema de saneamiento en áreas rurales con necesidades críticas. A través de la instalación de sistemas de captación y tratamiento de agua, se busca reducir enfermedades y mejorar la calidad de vida de la población. Además, se promoverá la educación sanitaria y la capacitación en el uso eficiente de los recursos hídricos, fomentando prácticas sostenibles. La iniciativa se fundamenta en alianzas con autoridades locales y organizaciones especializadas, asegurando una implementación efectiva y un mantenimiento a largo plazo que beneficie a generaciones futuras.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "CleanWaterAndSanitation",
+      "GoodHealthAndWellBeing",
+      "SustainableCitiesAndCommunities"
+    ]
+  },
+  {
+    "communityId": "dec7f34d-c1cc-4ef6-badf-e1ecb0b239e5",
+    "title": "Fomento del Emprendimiento Juvenil y la Innovación Social",
+    "description": "Esta causa se dedica a estimular el espíritu emprendedor en jóvenes, ofreciendo talleres de innovación, asesoría y acceso a microcréditos. La iniciativa busca crear un ecosistema favorable para el desarrollo de proyectos innovadores que generen impacto social positivo. Mediante la colaboración con universidades, centros de innovación y organizaciones de apoyo, se pretende impulsar la creatividad y la generación de soluciones a problemas locales. El proyecto también contempla la realización de ferias y eventos de networking que conecten a emprendedores con inversores, facilitando la creación de oportunidades laborales y el fortalecimiento de la economía regional.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "DecentWorkAndEconomicGrowth",
+      "QualityEducation",
+      "IndustryInnovationAndInfrastructure"
+    ]
+  },
+  {
+    "communityId": "17c894e1-cedf-4bc0-b68a-99b7d4e01940",
+    "title": "Programa Integral de Vivienda Digna y Accesible",
+    "description": "Esta causa se orienta a garantizar el acceso a una vivienda digna y asequible para familias en situación de vulnerabilidad. El proyecto contempla la construcción y rehabilitación de espacios habitables, ofreciendo soluciones habitacionales que integren servicios básicos y espacios comunitarios. Se promueve la participación de arquitectos, ingenieros y líderes locales para diseñar entornos que favorezcan la calidad de vida y la cohesión social. La iniciativa incluye también programas de asistencia financiera y asesoramiento legal, asegurando que las familias puedan acceder a condiciones de vida seguras y confortables a largo plazo.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "NoPoverty",
+      "ReducedInequalities",
+      "SustainableCitiesAndCommunities"
+    ]
+  },
+  {
+    "communityId": "17c894e1-cedf-4bc0-b68a-99b7d4e01940",
+    "title": "Iniciativa de Promoción del Turismo Sostenible y Cultural",
+    "description": "Esta causa se plantea como una estrategia para revitalizar el turismo local mediante la promoción de tradiciones culturales y la conservación de patrimonios históricos. El proyecto busca involucrar a comunidades y actores del sector turístico en la creación de rutas y eventos que pongan en valor la identidad regional. Además, se implementarán acciones de capacitación en hospitalidad y gestión turística, asegurando que la actividad genere beneficios económicos sostenibles sin comprometer el legado cultural. La iniciativa aspira a consolidar un modelo de turismo responsable que fomente el desarrollo y la preservación de la diversidad cultural.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "QualityEducation",
+      "IndustryInnovationAndInfrastructure",
+      "PartnershipsForTheGoals"
+    ]
+  },
+  {
+    "communityId": "17c894e1-cedf-4bc0-b68a-99b7d4e01940",
+    "title": "Campaña de Salud Mental y Apoyo Psicosocial en Entornos Urbanos",
+    "description": "La presente causa se centra en brindar servicios de apoyo psicosocial y promover la salud mental en comunidades urbanas que enfrentan altos niveles de estrés y desafíos emocionales. El proyecto contempla la creación de centros de atención, líneas de ayuda y talleres de bienestar emocional, dirigidos a personas de todas las edades. Con un enfoque integral y colaborativo, se busca disminuir el estigma asociado a los problemas mentales y fomentar una cultura de cuidado y acompañamiento. La iniciativa aspira a fortalecer el tejido social y generar espacios seguros donde los ciudadanos puedan encontrar recursos y apoyo profesional.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "GoodHealthAndWellBeing",
+      "ReducedInequalities",
+      "PeaceJusticeAndStrongInstitutions"
+    ]
+  },
+  {
+    "communityId": "17c894e1-cedf-4bc0-b68a-99b7d4e01940",
+    "title": "Impulso a la Economía Local mediante Ferias y Mercados Comunitarios",
+    "description": "Esta causa se ha diseñado para dinamizar la economía local a través de la organización de ferias y mercados que reúnan a productores, artesanos y comerciantes. La iniciativa tiene como fin promover el comercio justo y la sostenibilidad, ofreciendo a la comunidad espacios de encuentro y aprendizaje. Se fomentará la capacitación en técnicas de venta y gestión de negocios, así como el uso de tecnologías para optimizar la comercialización. Con un enfoque participativo, se espera que este proyecto fortalezca las redes comerciales y genere oportunidades de crecimiento económico para todos los involucrados.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "DecentWorkAndEconomicGrowth",
+      "ResponsibleConsumptionAndProduction"
+    ]
+  },
+  {
+    "communityId": "17c894e1-cedf-4bc0-b68a-99b7d4e01940",
+    "title": "Programa de Capacitación y Formación en Tecnologías Digitales",
+    "description": "La iniciativa está diseñada para equipar a jóvenes y adultos con habilidades en tecnologías digitales, promoviendo la inclusión en la economía del conocimiento. A través de cursos especializados, talleres prácticos y mentorías, se busca fomentar el aprendizaje continuo y la adaptación a las demandas del mercado laboral actual. El proyecto se apoya en alianzas con instituciones educativas y empresas tecnológicas para garantizar la calidad y relevancia de la formación impartida. Esta causa aspira a cerrar la brecha digital y potenciar el desarrollo personal y profesional, impulsando el crecimiento y la competitividad en la región.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "QualityEducation",
+      "IndustryInnovationAndInfrastructure",
+      "GoodHealthAndWellBeing"
+    ]
+  },
+  {
+    "communityId": "80e768bf-2288-42e4-87f0-afad79a9bb37",
+    "title": "Campaña de Prevención y Lucha contra la Pobreza Extrema",
+    "description": "Esta causa se focaliza en la erradicación de la pobreza extrema a través de programas de asistencia social y capacitación laboral. Se implementarán iniciativas de microfinanzas, asesoramiento y apoyo en la búsqueda de empleo, orientadas a familias en riesgo. La campaña también incluye talleres de empoderamiento y formación en habilidades técnicas que permitan a los beneficiarios acceder a mejores oportunidades económicas. Con un enfoque integral y colaborativo, el proyecto busca transformar vidas, promoviendo la dignidad y la inclusión, y estableciendo redes de apoyo que impulsen el desarrollo personal y comunitario.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "NoPoverty",
+      "DecentWorkAndEconomicGrowth",
+      "ReducedInequalities"
+    ]
+  },
+  {
+    "communityId": "80e768bf-2288-42e4-87f0-afad79a9bb37",
+    "title": "Iniciativa de Conservación de Espacios Verdes y Biodiversidad",
+    "description": "Esta causa tiene como finalidad la preservación y recuperación de espacios verdes urbanos, promoviendo la biodiversidad y el equilibrio ecológico. El proyecto contempla la plantación de árboles, la creación de parques y jardines comunitarios, y la implementación de programas de educación ambiental. Se busca sensibilizar a la ciudadanía sobre la importancia de la naturaleza y fomentar prácticas sostenibles que contribuyan a mitigar el impacto del cambio climático. La iniciativa se apoya en la colaboración de expertos ambientales y entidades locales para garantizar la efectividad y continuidad de las acciones propuestas.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "LifeOnLand",
+      "ClimateAction",
+      "SustainableCitiesAndCommunities"
+    ]
+  },
+  {
+    "communityId": "80e768bf-2288-42e4-87f0-afad79a9bb37",
+    "title": "Proyecto de Fortalecimiento del Emprendimiento Femenino",
+    "description": "Esta causa se dedica a potenciar el emprendimiento femenino mediante programas de capacitación, mentorías y acceso a financiamiento. La iniciativa busca derribar barreras de género en el ámbito laboral, promoviendo la igualdad y el empoderamiento de las mujeres en diversos sectores económicos. Se desarrollarán talleres especializados y redes de apoyo que faciliten la creación de negocios sostenibles y generen oportunidades de crecimiento profesional. Con la colaboración de organizaciones locales y expertos en desarrollo empresarial, el proyecto pretende transformar la realidad de muchas mujeres, impulsando un cambio positivo en la comunidad y fomentando una cultura de inclusión y justicia social.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "GenderEquality",
+      "DecentWorkAndEconomicGrowth",
+      "ReducedInequalities"
+    ]
+  },
+  {
+    "communityId": "80e768bf-2288-42e4-87f0-afad79a9bb37",
+    "title": "Iniciativa de Conservación del Patrimonio Cultural Local",
+    "description": "Esta causa se orienta a la preservación y difusión del patrimonio cultural a través de actividades educativas, restauración de sitios históricos y la organización de festivales tradicionales. El proyecto tiene como finalidad fortalecer la identidad local y promover el orgullo cultural entre los habitantes, integrando prácticas artísticas y artesanales en el quehacer diario. Se colaborará con expertos en historia y cultura para desarrollar programas de restauración y difusión, asegurando la conservación de tradiciones y la transmisión de conocimientos a futuras generaciones. La iniciativa busca generar un impacto duradero en la cohesión social y el desarrollo comunitario.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "QualityEducation",
+      "PeaceJusticeAndStrongInstitutions",
+      "PartnershipsForTheGoals"
+    ]
+  },
+  {
+    "communityId": "80e768bf-2288-42e4-87f0-afad79a9bb37",
+    "title": "Proyecto de Inclusión Digital y Alfabetización Tecnológica",
+    "description": "Esta causa está diseñada para combatir la brecha digital mediante la implementación de programas de alfabetización tecnológica en comunidades desfavorecidas. El proyecto ofrece cursos prácticos, acceso a dispositivos y asesoramiento en el uso de herramientas digitales, facilitando la integración en la era de la información. Se promoverá la participación de voluntarios y expertos en tecnología para guiar a los beneficiarios a través de un aprendizaje personalizado. La iniciativa no solo busca mejorar las competencias digitales, sino también impulsar el desarrollo económico y social, abriendo nuevas oportunidades laborales y fortaleciendo la conectividad en entornos rurales y urbanos.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "QualityEducation",
+      "IndustryInnovationAndInfrastructure",
+      "DecentWorkAndEconomicGrowth",
+      "AffordableAndCleanEnergy"
+    ]
+  },
+  {
+    "communityId": "5ea42c57-2d98-4cae-90dc-64d8a79cc0c3",
+    "title": "Proyecto de Reforestación y Restauración de Ecosistemas",
+    "description": "Esta causa se focaliza en la reforestación y recuperación de áreas degradadas, promoviendo el equilibrio ecológico y la conservación de la biodiversidad. El proyecto incluye la plantación de especies nativas y la restauración de hábitats naturales afectados por la actividad humana. A través de campañas de sensibilización y participación comunitaria, se busca involucrar a la población en acciones ambientales que generen un impacto positivo a largo plazo. Además, se implementarán talleres educativos sobre ecología y sostenibilidad, fomentando una cultura de respeto y cuidado por el medio ambiente.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "LifeOnLand",
+      "ClimateAction",
+      "PartnershipsForTheGoals"
+    ]
+  },
+  {
+    "communityId": "5ea42c57-2d98-4cae-90dc-64d8a79cc0c3",
+    "title": "Iniciativa de Inclusión Laboral y Capacitación Profesional",
+    "description": "Esta causa se dirige a la integración laboral de personas en situación de vulnerabilidad mediante programas de capacitación y mentoría. La iniciativa pretende abrir nuevas oportunidades de empleo a través de cursos técnicos y talleres prácticos, fortaleciendo las habilidades necesarias para competir en el mercado laboral actual. Se promoverá la colaboración entre empresas y organizaciones para crear redes de apoyo y facilitar la inserción profesional. El proyecto también contempla el desarrollo de programas de asesoramiento y seguimiento, asegurando que los participantes logren un crecimiento sostenible y una mayor estabilidad económica.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "DecentWorkAndEconomicGrowth",
+      "QualityEducation",
+      "ReducedInequalities",
+      "NoPoverty"
+    ]
+  },
+  {
+    "communityId": "5ea42c57-2d98-4cae-90dc-64d8a79cc0c3",
+    "title": "Proyecto de Conservación del Agua y Educación Hídrica",
+    "description": "Esta causa se enfoca en la preservación de recursos hídricos y en la educación sobre el uso sostenible del agua. La iniciativa busca implementar sistemas de captación y tratamiento de agua, así como programas de concientización en escuelas y comunidades. Se promoverá el uso responsable y la reutilización de este recurso vital, reduciendo el desperdicio y protegiendo los ecosistemas acuáticos. Además, se organizarán talleres y campañas informativas que sensibilicen a la población sobre la importancia de conservar el agua, garantizando su disponibilidad para futuras generaciones y el mantenimiento de un ambiente saludable.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "CleanWaterAndSanitation",
+      "ClimateAction",
+      "GoodHealthAndWellBeing"
+    ]
+  },
+  {
+    "communityId": "5ea42c57-2d98-4cae-90dc-64d8a79cc0c3",
+    "title": "Campaña de Reciclaje y Educación Ambiental para Niños",
+    "description": "Esta causa está orientada a inculcar hábitos de reciclaje y cuidado del medio ambiente en niños y jóvenes mediante actividades lúdicas y educativas. El proyecto incluye la organización de talleres interactivos, visitas a centros de reciclaje y campañas de concientización en escuelas. Se busca fomentar la responsabilidad ambiental desde temprana edad, promoviendo prácticas que reduzcan el impacto ecológico y contribuyan a la sostenibilidad del planeta. Además, se pretende involucrar a familias y educadores en la adopción de comportamientos sostenibles, creando una red de compromiso que impulse cambios positivos en la comunidad.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "ResponsibleConsumptionAndProduction",
+      "QualityEducation",
+      "GoodHealthAndWellBeing"
+    ]
+  },
+  {
+    "communityId": "5ea42c57-2d98-4cae-90dc-64d8a79cc0c3",
+    "title": "Iniciativa de Apoyo a la Agricultura Sostenible y Orgánica",
+    "description": "Esta causa se propone fortalecer la agricultura sostenible mediante la promoción de prácticas orgánicas y el uso responsable de recursos naturales. El proyecto contempla la capacitación de agricultores en técnicas de cultivo ecológico y la implementación de sistemas de riego eficientes. Se fomentará la creación de cooperativas y la comercialización de productos orgánicos, incentivando una producción que respete el medio ambiente y garantice la salud de los consumidores. Además, se realizarán campañas de sensibilización sobre la importancia de consumir alimentos frescos y libres de químicos, contribuyendo al bienestar general y al desarrollo rural.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "ZeroHunger",
+      "DecentWorkAndEconomicGrowth",
+      "CleanWaterAndSanitation",
+      "ClimateAction"
+    ]
+  },
+  {
+    "communityId": "1460f9c3-3783-4401-8976-c478b1abca2b",
+    "title": "Proyecto de Apoyo Psicosocial para Adultos Mayores",
+    "description": "Esta causa se ha diseñado para brindar apoyo psicosocial a adultos mayores, promoviendo su bienestar emocional y social. El proyecto contempla actividades de acompañamiento, talleres de reminiscencia y espacios de convivencia que faciliten la integración y el intercambio generacional. Se busca disminuir la sensación de aislamiento y fomentar la participación activa en la comunidad, fortaleciendo redes de apoyo y mejorando la calidad de vida de los beneficiarios. La iniciativa también incluye la capacitación de voluntarios y profesionales en atención geriátrica, garantizando un cuidado integral y humanizado.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "GoodHealthAndWellBeing",
+      "ReducedInequalities",
+      "QualityEducation"
+    ]
+  },
+  {
+    "communityId": "1460f9c3-3783-4401-8976-c478b1abca2b",
+    "title": "Iniciativa de Promoción Deportiva y Estilo de Vida Saludable",
+    "description": "Esta causa está orientada a incentivar la práctica deportiva y la adopción de hábitos saludables en la comunidad. El proyecto incluye la organización de torneos, clases de yoga y talleres de nutrición, dirigidos a todas las edades. Se busca crear espacios seguros y accesibles donde los ciudadanos puedan ejercitarse, aprender sobre alimentación balanceada y fortalecer el sentido de comunidad. Además, se promoverá la participación de instituciones locales y el patrocinio de empresas, fomentando un entorno que impulse la salud física y mental de sus miembros.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "GoodHealthAndWellBeing",
+      "DecentWorkAndEconomicGrowth",
+      "QualityEducation"
+    ]
+  },
+  {
+    "communityId": "1460f9c3-3783-4401-8976-c478b1abca2b",
+    "title": "Proyecto de Inclusión y Desarrollo Cultural Juvenil",
+    "description": "Esta causa se enfoca en la promoción de actividades culturales y artísticas dirigidas a jóvenes, con el objetivo de fomentar la creatividad y la identidad cultural. El proyecto contempla la realización de festivales, exposiciones y talleres de arte, donde se valoren las expresiones locales y se fortalezca el sentido de pertenencia. Se busca crear espacios de encuentro que faciliten el intercambio de ideas y la colaboración entre jóvenes talentos. Además, la iniciativa incluye programas de formación en artes escénicas y visuales, contribuyendo al desarrollo integral y a la cohesión social en la comunidad.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "QualityEducation",
+      "ReducedInequalities",
+      "PartnershipsForTheGoals"
+    ]
+  },
+  {
+    "communityId": "1460f9c3-3783-4401-8976-c478b1abca2b",
+    "title": "Iniciativa de Emprendimiento Rural y Desarrollo Agrícola",
+    "description": "Esta causa está orientada a impulsar el emprendimiento en zonas rurales mediante la modernización de prácticas agrícolas y la adopción de tecnologías innovadoras. El proyecto contempla la capacitación de agricultores, la introducción de métodos de cultivo sostenibles y la creación de cooperativas que fortalezcan la economía local. Se promoverá el intercambio de conocimientos y la colaboración entre productores, buscando generar un impacto positivo en la productividad y en la calidad de los productos agrícolas. La iniciativa aspira a transformar el sector rural, generando empleo y mejorando las condiciones de vida en las comunidades involucradas.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "DecentWorkAndEconomicGrowth",
+      "NoPoverty",
+      "IndustryInnovationAndInfrastructure",
+      "GoodHealthAndWellBeing"
+    ]
+  },
+  {
+    "communityId": "1460f9c3-3783-4401-8976-c478b1abca2b",
+    "title": "Proyecto de Conservación y Educación sobre Energía Renovable",
+    "description": "Esta causa se propone educar y capacitar a la comunidad en el uso y aprovechamiento de energías renovables, fomentando prácticas sostenibles en el consumo energético. El proyecto incluye talleres de formación, demostraciones prácticas y asesoramiento en la instalación de paneles solares y otras tecnologías limpias. Se busca sensibilizar sobre la importancia de la transición hacia fuentes de energía más amigables con el medio ambiente, reduciendo la huella de carbono y promoviendo la eficiencia energética. Con el apoyo de expertos y la colaboración de instituciones locales, se espera generar un cambio positivo en la gestión de recursos energéticos.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "AffordableAndCleanEnergy",
+      "IndustryInnovationAndInfrastructure",
+      "ClimateAction"
+    ]
+  },
+  {
+    "communityId": "5ec57567-e7b8-4396-b359-bbb40ffc512b",
+    "title": "Programa de Rehabilitación y Reinserción Social para Jóvenes",
+    "description": "Esta causa se centra en ofrecer oportunidades de rehabilitación y reinserción social a jóvenes en riesgo de exclusión. El proyecto contempla programas de formación laboral, asesoría psicológica y actividades comunitarias que fomenten el desarrollo personal y la integración social. Se busca crear un ambiente de apoyo y motivación, donde los participantes puedan reconstruir sus vidas y adquirir habilidades para un futuro prometedor. La iniciativa involucra a instituciones educativas, organizaciones sin ánimo de lucro y profesionales comprometidos con el cambio social, garantizando una atención integral y humanizada.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "QualityEducation",
+      "ReducedInequalities",
+      "DecentWorkAndEconomicGrowth"
+    ]
+  },
+  {
+    "communityId": "5ec57567-e7b8-4396-b359-bbb40ffc512b",
+    "title": "Iniciativa de Conservación y Revitalización de Espacios Públicos",
+    "description": "Esta causa se propone transformar y revitalizar espacios públicos deteriorados, creando entornos seguros y acogedores para la comunidad. El proyecto incluye la rehabilitación de parques, plazas y áreas recreativas, así como la instalación de mobiliario urbano y la promoción de actividades culturales. Se busca incentivar la participación ciudadana y generar un sentido de pertenencia a través de la organización de eventos y talleres comunitarios. La iniciativa se desarrollará en colaboración con autoridades locales y expertos en urbanismo, asegurando que cada intervención contribuya al bienestar y desarrollo de la comunidad.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "SustainableCitiesAndCommunities",
+      "ResponsibleConsumptionAndProduction",
+      "QualityEducation"
+    ]
+  },
+  {
+    "communityId": "5ec57567-e7b8-4396-b359-bbb40ffc512b",
+    "title": "Proyecto de Educación Ambiental y Conservación Marina",
+    "description": "Esta causa tiene como finalidad concienciar sobre la importancia de preservar los ecosistemas marinos y promover prácticas sostenibles en zonas costeras. El proyecto contempla la realización de charlas, talleres y actividades de limpieza en playas, orientadas a educar a la población sobre la conservación de la vida bajo el agua. Se fomentará la investigación y el uso de tecnologías limpias para la protección de especies y hábitats marinos. La iniciativa busca involucrar a escuelas, comunidades locales y expertos en medio ambiente, generando un compromiso colectivo para el cuidado y la recuperación de los océanos.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "LifeBelowWater",
+      "QualityEducation",
+      "ClimateAction"
+    ]
+  },
+  {
+    "communityId": "5ec57567-e7b8-4396-b359-bbb40ffc512b",
+    "title": "Iniciativa de Innovación Social a través del Voluntariado",
+    "description": "Esta causa se centra en impulsar la innovación social mediante la participación activa en programas de voluntariado y proyectos comunitarios. El proyecto busca fortalecer la solidaridad y el compromiso cívico, promoviendo la organización de eventos y actividades que unan a personas de distintas edades y orígenes. Se implementarán talleres formativos y espacios de intercambio de experiencias, orientados a desarrollar soluciones creativas a problemas locales. La iniciativa se apoya en la colaboración de diversas instituciones y líderes comunitarios, garantizando un impacto positivo y duradero en el tejido social y en la mejora de la calidad de vida.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "PartnershipsForTheGoals",
+      "QualityEducation",
+      "DecentWorkAndEconomicGrowth",
+      "ReducedInequalities"
+    ]
+  },
+  {
+    "communityId": "5ec57567-e7b8-4396-b359-bbb40ffc512b",
+    "title": "Proyecto de Desarrollo de Habilidades Digitales en Adultos",
+    "description": "Esta causa se orienta a mejorar las competencias digitales de adultos que requieren actualización en un mundo cada vez más tecnológico. El proyecto ofrece cursos prácticos, tutorías personalizadas y acceso a herramientas digitales, facilitando la inclusión en la economía digital. Se promoverá la capacitación en el uso de software, redes sociales y aplicaciones esenciales, abriendo nuevas oportunidades laborales y de emprendimiento. Además, la iniciativa busca reducir la brecha digital y fomentar la autonomía, integrando a los participantes en un entorno de aprendizaje colaborativo y moderno, con el objetivo de mejorar su calidad de vida y competitividad profesional.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "QualityEducation",
+      "IndustryInnovationAndInfrastructure",
+      "DecentWorkAndEconomicGrowth"
+    ]
+  },
+  {
+    "communityId": "db34ec46-8e4e-4055-9922-32589b0e93c9",
+    "title": "Proyecto de Desarrollo Sostenible en Agricultura Familiar",
+    "description": "Esta causa está enfocada en impulsar la agricultura familiar mediante prácticas sostenibles y el uso de tecnologías apropiadas. El proyecto contempla la capacitación en técnicas de cultivo ecológico, la implementación de sistemas de riego eficientes y el fomento de cooperativas de productores. Se busca mejorar la productividad y la calidad de los productos, a la vez que se promueve la conservación del medio ambiente. La iniciativa también incluye actividades de sensibilización y asesoramiento, con el objetivo de transformar el sector agrícola y generar un impacto positivo en la economía rural.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "DecentWorkAndEconomicGrowth",
+      "QualityEducation",
+      "ClimateAction"
+    ]
+  },
+  {
+    "communityId": "db34ec46-8e4e-4055-9922-32589b0e93c9",
+    "title": "Iniciativa de Fortalecimiento del Comercio Justo Local",
+    "description": "Esta causa tiene como propósito dinamizar el comercio justo en la región, apoyando a pequeños productores y emprendedores locales. El proyecto contempla la creación de mercados comunitarios, ferias y eventos que faciliten el intercambio de bienes y servicios de calidad. Se promoverá la capacitación en gestión comercial y la adopción de prácticas sostenibles que respeten el medio ambiente. La iniciativa busca generar un modelo de negocio inclusivo que beneficie a toda la comunidad, fortaleciendo la economía local y promoviendo la equidad social.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "DecentWorkAndEconomicGrowth",
+      "NoPoverty",
+      "ReducedInequalities"
+    ]
+  },
+  {
+    "communityId": "db34ec46-8e4e-4055-9922-32589b0e93c9",
+    "title": "Proyecto de Acceso a la Tecnología y Educación Digital",
+    "description": "Esta causa se centra en reducir la brecha digital mediante el acceso a tecnologías y programas de educación digital. El proyecto ofrece capacitación en el uso de computadoras, internet y herramientas digitales, orientados a personas de todas las edades. Se busca empoderar a la comunidad con habilidades tecnológicas que faciliten la inserción en el mercado laboral moderno. Además, la iniciativa contempla la instalación de centros digitales y la creación de redes de colaboración entre instituciones educativas y empresas tecnológicas, asegurando un aprendizaje continuo y adaptado a las demandas actuales.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "QualityEducation",
+      "IndustryInnovationAndInfrastructure",
+      "GoodHealthAndWellBeing",
+      "ReducedInequalities"
+    ]
+  },
+  {
+    "communityId": "db34ec46-8e4e-4055-9922-32589b0e93c9",
+    "title": "Iniciativa de Conservación de Recursos Naturales y Biodiversidad",
+    "description": "Esta causa se propone proteger y conservar los recursos naturales mediante la implementación de prácticas sostenibles y proyectos de restauración ambiental. El proyecto incluye la realización de estudios de impacto, campañas de sensibilización y la creación de áreas protegidas. Se busca involucrar a la comunidad en actividades de recolección de datos y monitoreo de ecosistemas, promoviendo una gestión responsable de la biodiversidad. Además, la iniciativa fomenta la colaboración entre instituciones gubernamentales y organizaciones ambientales, garantizando la preservación del patrimonio natural para las generaciones futuras.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "LifeOnLand",
+      "ClimateAction",
+      "PartnershipsForTheGoals"
+    ]
+  },
+  {
+    "communityId": "db34ec46-8e4e-4055-9922-32589b0e93c9",
+    "title": "Iniciativa de Desarrollo Comunitario y Participación Ciudadana",
+    "description": "Esta causa se enfoca en fortalecer la participación ciudadana y el desarrollo comunitario a través de la implementación de programas de liderazgo y colaboración. El proyecto contempla la realización de asambleas, foros y talleres que permitan a los habitantes expresar sus necesidades y proponer soluciones innovadoras. Se promoverá la creación de comités locales y redes de apoyo, impulsando un modelo de gobernanza inclusiva. Además, la iniciativa busca incentivar la transparencia y la rendición de cuentas en la gestión pública, generando un ambiente de confianza y cooperación que contribuya al progreso social y económico de la región.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "PartnershipsForTheGoals",
+      "DecentWorkAndEconomicGrowth",
+      "ReducedInequalities"
+    ]
+  },
+  {
+    "communityId": "0bd19cea-bef1-4d62-a12d-5b198bf756c7",
+    "title": "Proyecto de Fortalecimiento de la Economía Social",
+    "description": "Esta causa se propone impulsar la economía social a través de la creación de cooperativas y emprendimientos solidarios. El proyecto contempla la capacitación en gestión empresarial, la organización de ferias y la promoción de prácticas comerciales éticas que beneficien a la comunidad. Se busca fomentar la inclusión y la equidad, ofreciendo herramientas y recursos que permitan a los participantes desarrollar negocios sostenibles. La iniciativa también incluye programas de mentoría y asesoramiento, generando un entorno propicio para el crecimiento y la innovación. Asimismo, se implementarán estrategias para conectar productores locales con mercados regionales, fortaleciendo la red de apoyo y colaboración en la comunidad.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "DecentWorkAndEconomicGrowth",
+      "QualityEducation",
+      "PartnershipsForTheGoals"
+    ]
+  },
+  {
+    "communityId": "0bd19cea-bef1-4d62-a12d-5b198bf756c7",
+    "title": "Iniciativa para el Desarrollo de Proyectos Solidarios y Cooperativos",
+    "description": "Esta causa tiene como objetivo promover proyectos solidarios que impulsen la colaboración entre ciudadanos y empresas locales. Se desarrollarán talleres y jornadas de capacitación enfocados en el desarrollo de iniciativas cooperativas, donde se compartirán conocimientos y experiencias para fomentar la economía colaborativa. Además, se buscará establecer alianzas estratégicas que faciliten el acceso a financiamiento y recursos técnicos, permitiendo que cada proyecto se consolide de manera sostenible. La iniciativa se centra en fortalecer el tejido social, impulsando la cohesión comunitaria y generando oportunidades de empleo y desarrollo para todos los participantes.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "DecentWorkAndEconomicGrowth",
+      "NoPoverty",
+      "ReducedInequalities"
+    ]
+  },
+  {
+    "communityId": "0bd19cea-bef1-4d62-a12d-5b198bf756c7",
+    "title": "Campaña de Fomento al Consumo Responsable y Comercio Ético",
+    "description": "Esta causa se orienta a sensibilizar a la comunidad sobre la importancia del consumo responsable y el comercio ético. A través de campañas educativas, talleres y eventos, se pretende informar a los ciudadanos sobre prácticas de compra que favorezcan la sostenibilidad y la justicia social. La iniciativa promueve el apoyo a productores locales y a empresas comprometidas con prácticas laborales justas y medioambientalmente responsables. Se buscará crear redes de consumidores y empresarios que compartan valores de integridad y transparencia, incentivando un cambio cultural que impulse la economía local y contribuya al bienestar general de la sociedad.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "ResponsibleConsumptionAndProduction",
+      "DecentWorkAndEconomicGrowth",
+      "PartnershipsForTheGoals"
+    ]
+  },
+  {
+    "communityId": "0bd19cea-bef1-4d62-a12d-5b198bf756c7",
+    "title": "Proyecto de Capacitación en Habilidades Empresariales y Financieras",
+    "description": "Esta causa está diseñada para dotar a la comunidad de herramientas y conocimientos en gestión empresarial y finanzas personales. Se ofrecerán cursos, talleres y sesiones de mentoría que aborden temas como la planificación de negocios, el acceso a microcréditos y la administración de recursos económicos. El objetivo es empoderar a los participantes para que puedan emprender y gestionar proyectos de forma efectiva, mejorando su situación económica y contribuyendo al desarrollo local. La iniciativa se apoyará en expertos del sector y en alianzas estratégicas con instituciones financieras, asegurando un aprendizaje práctico y adaptado a las necesidades reales de la comunidad.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "QualityEducation",
+      "DecentWorkAndEconomicGrowth",
+      "IndustryInnovationAndInfrastructure"
+    ]
+  },
+  {
+    "communityId": "0bd19cea-bef1-4d62-a12d-5b198bf756c7",
+    "title": "Impulso a la Innovación y Creatividad en Economía Comunitaria",
+    "description": "Esta causa busca estimular la innovación y la creatividad dentro de la economía local mediante la implementación de programas de formación y espacios colaborativos. Se promoverán concursos de ideas, hackatones y talleres de creatividad para identificar y desarrollar proyectos que respondan a las necesidades de la comunidad. La iniciativa pretende generar un ambiente dinámico donde la innovación se convierta en el motor para la transformación social y económica. A través de la colaboración entre jóvenes, empresarios y organizaciones locales, se espera fortalecer el espíritu emprendedor y crear soluciones innovadoras que impulsen el desarrollo sostenible y la resiliencia comunitaria.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "IndustryInnovationAndInfrastructure",
+      "DecentWorkAndEconomicGrowth",
+      "QualityEducation",
+      "PartnershipsForTheGoals"
+    ]
+  },
+  {
+    "communityId": "6d52b51d-ddb2-4ee5-b3ab-56ed59e62634",
+    "title": "Programa de Revitalización de Espacios Urbanos y Áreas Verdes",
+    "description": "Esta causa se enfoca en la rehabilitación y transformación de espacios urbanos deteriorados, convirtiéndolos en áreas verdes que promuevan la convivencia y el bienestar. Se planea la remodelación de parques y plazas, incorporando mobiliario urbano adecuado y zonas de recreación para todas las edades. La iniciativa busca incentivar la participación ciudadana en la planificación y ejecución de estos proyectos, creando entornos seguros y agradables. Además, se realizarán campañas de concientización sobre la importancia de mantener espacios públicos limpios y sostenibles, impulsando un sentido de orgullo y responsabilidad entre los habitantes.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "SustainableCitiesAndCommunities",
+      "QualityEducation",
+      "GoodHealthAndWellBeing"
+    ]
+  },
+  {
+    "communityId": "6d52b51d-ddb2-4ee5-b3ab-56ed59e62634",
+    "title": "Iniciativa de Educación Ambiental y Conservación Urbana",
+    "description": "Esta causa tiene como objetivo educar a la población sobre la importancia del medio ambiente y la conservación de los entornos urbanos. Se implementarán talleres, charlas y actividades prácticas que fomenten el reciclaje, la reducción de residuos y el uso responsable de los recursos. La iniciativa también contempla la creación de huertos urbanos y programas de reforestación en zonas estratégicas de la ciudad. A través de estas acciones, se espera sensibilizar a los ciudadanos sobre el impacto de sus acciones en el entorno y promover un estilo de vida más sostenible, contribuyendo al bienestar colectivo y a la mejora del ambiente urbano.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "QualityEducation",
+      "ClimateAction",
+      "SustainableCitiesAndCommunities"
+    ]
+  },
+  {
+    "communityId": "6d52b51d-ddb2-4ee5-b3ab-56ed59e62634",
+    "title": "Proyecto de Integración Cultural y Participación Ciudadana",
+    "description": "Esta causa se propone fomentar la integración cultural y la participación activa de los ciudadanos en la vida comunitaria. Se desarrollarán eventos culturales, festivales y encuentros que celebren la diversidad y enriquezcan la identidad local. La iniciativa busca crear espacios de diálogo y colaboración donde se valoren las tradiciones y se impulsen nuevas formas de expresión artística. Además, se promoverán actividades que incentiven la participación en decisiones comunitarias, fortaleciendo la cohesión social y la responsabilidad compartida en la transformación del entorno urbano.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "QualityEducation",
+      "PartnershipsForTheGoals",
+      "ReducedInequalities"
+    ]
+  },
+  {
+    "communityId": "6d52b51d-ddb2-4ee5-b3ab-56ed59e62634",
+    "title": "Campaña de Salud Pública y Bienestar Social",
+    "description": "Esta causa está diseñada para mejorar la salud pública y el bienestar social mediante la implementación de programas de prevención, atención primaria y promoción de hábitos saludables. Se ofrecerán servicios de consulta médica, talleres de nutrición y actividades físicas, dirigidos a personas de todas las edades. La iniciativa pretende crear redes de apoyo comunitario que faciliten el acceso a servicios de salud y generen un ambiente de bienestar integral. Además, se trabajará en la difusión de información sobre la importancia de la salud mental y física, buscando reducir las brechas en el acceso a la atención sanitaria.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "GoodHealthAndWellBeing",
+      "QualityEducation",
+      "ReducedInequalities"
+    ]
+  },
+  {
+    "communityId": "6d52b51d-ddb2-4ee5-b3ab-56ed59e62634",
+    "title": "Fomento del Voluntariado y Desarrollo Comunitario",
+    "description": "Esta causa impulsa el voluntariado como herramienta de desarrollo comunitario y transformación social. Se promoverán programas de voluntariado en diversas áreas, desde la asistencia en centros educativos hasta el apoyo en iniciativas ambientales y culturales. La idea es incentivar a los ciudadanos a participar activamente en la solución de problemas locales, fortaleciendo el sentido de pertenencia y solidaridad. Además, se realizarán jornadas de formación y capacitación en liderazgo y trabajo en equipo, permitiendo que cada voluntario contribuya de manera efectiva al mejoramiento de su comunidad y al bienestar general.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "PartnershipsForTheGoals",
+      "DecentWorkAndEconomicGrowth",
+      "QualityEducation"
+    ]
+  },
+  {
+    "communityId": "c2eee0f5-0400-4e60-8978-598381dd1ea7",
+    "title": "Iniciativa de Innovación Educativa y Transformación Digital",
+    "description": "Esta causa se orienta a revolucionar la educación mediante la incorporación de tecnologías digitales en el aula. Se implementarán programas de capacitación para docentes, se actualizarán recursos educativos y se instalarán infraestructuras tecnológicas en instituciones locales. La iniciativa busca facilitar el acceso a la información y potenciar el aprendizaje interactivo, adaptándose a las demandas del siglo XXI. Asimismo, se promoverá el uso responsable de las tecnologías y la creación de contenidos digitales innovadores que enriquezcan la experiencia educativa, impulsando un cambio cultural hacia una educación más inclusiva y moderna.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "QualityEducation",
+      "IndustryInnovationAndInfrastructure",
+      "PartnershipsForTheGoals"
+    ]
+  },
+  {
+    "communityId": "c2eee0f5-0400-4e60-8978-598381dd1ea7",
+    "title": "Proyecto de Inclusión Laboral y Oportunidades Juveniles",
+    "description": "Esta causa se enfoca en abrir nuevas oportunidades laborales para jóvenes a través de programas de capacitación y empleo. Se ofrecerán cursos de formación en habilidades técnicas y soft skills, junto con talleres de orientación profesional y mentorías. La iniciativa tiene como meta reducir la tasa de desempleo juvenil, promoviendo la inserción en sectores económicos emergentes. Se fomentará la colaboración con empresas locales para facilitar prácticas profesionales y programas de becas, creando un puente entre la educación y el mundo laboral que permita a los jóvenes desarrollarse y alcanzar su máximo potencial.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "DecentWorkAndEconomicGrowth",
+      "QualityEducation",
+      "ReducedInequalities"
+    ]
+  },
+  {
+    "communityId": "c2eee0f5-0400-4e60-8978-598381dd1ea7",
+    "title": "Campaña de Acceso a Recursos Sanitarios y Prevención",
+    "description": "Esta causa tiene como objetivo garantizar el acceso a servicios sanitarios de calidad en zonas desatendidas, a través de campañas de prevención y promoción de la salud. Se desarrollarán jornadas médicas, ferias de salud y talleres de autocuidado, dirigidos a comunidades con necesidades críticas. La iniciativa se centrará en la prevención de enfermedades y en la mejora de la atención primaria, utilizando recursos tecnológicos y capacitación especializada. Además, se promoverá la colaboración entre instituciones de salud y organizaciones comunitarias, asegurando que cada ciudadano pueda acceder a servicios médicos y a la información necesaria para cuidar su salud de manera efectiva.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "GoodHealthAndWellBeing",
+      "CleanWaterAndSanitation",
+      "QualityEducation"
+    ]
+  },
+  {
+    "communityId": "c2eee0f5-0400-4e60-8978-598381dd1ea7",
+    "title": "Programa de Desarrollo de Infraestructura Sostenible",
+    "description": "Esta causa busca mejorar la infraestructura local de manera sostenible, priorizando la eficiencia energética y el uso responsable de los recursos. Se planea la construcción y rehabilitación de instalaciones públicas, incluyendo centros comunitarios y espacios recreativos, con materiales ecológicos y tecnologías innovadoras. La iniciativa se enfoca en generar un impacto positivo en la calidad de vida de los habitantes, optimizando el uso de la energía y promoviendo prácticas de conservación ambiental. Además, se impulsará la participación ciudadana en el diseño y ejecución de los proyectos, asegurando que las mejoras respondan a las necesidades reales de la comunidad.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "AffordableAndCleanEnergy",
+      "SustainableCitiesAndCommunities",
+      "IndustryInnovationAndInfrastructure"
+    ]
+  },
+  {
+    "communityId": "c2eee0f5-0400-4e60-8978-598381dd1ea7",
+    "title": "Impulso a la Creatividad y Emprendimiento Social",
+    "description": "Esta causa tiene como finalidad fomentar la creatividad y el espíritu emprendedor en sectores vulnerables, a través de programas de capacitación y mentoría en áreas artísticas y empresariales. Se desarrollarán talleres de innovación, sesiones de brainstorming y ferias de emprendimiento que permitan a los participantes presentar sus ideas y convertirlas en proyectos viables. La iniciativa promueve la integración de recursos culturales y económicos, incentivando la creación de negocios con impacto social. Con el apoyo de expertos y alianzas estratégicas, se espera transformar ideas creativas en soluciones prácticas que impulsen el desarrollo y la cohesión en la comunidad.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "IndustryInnovationAndInfrastructure",
+      "DecentWorkAndEconomicGrowth",
+      "QualityEducation"
+    ]
+  },
+  {
+    "communityId": "15b7e2bb-999c-4bc1-b3bc-6ae7f4e377dd",
+    "title": "Proyecto de Capacitación en Tecnologías Emergentes",
+    "description": "Esta causa está orientada a preparar a la comunidad para los desafíos del futuro mediante la capacitación en tecnologías emergentes como la inteligencia artificial, blockchain y robótica. Se impartirán cursos, talleres y seminarios que brinden conocimientos prácticos y actualizados, permitiendo a los participantes adaptarse a los cambios del mercado laboral. La iniciativa busca cerrar la brecha digital y potenciar las capacidades tecnológicas de jóvenes y adultos, generando oportunidades de innovación y emprendimiento. Además, se fomentará la colaboración con expertos del sector y la integración de herramientas digitales que faciliten el aprendizaje y la aplicación de estas tecnologías en proyectos reales.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "QualityEducation",
+      "IndustryInnovationAndInfrastructure",
+      "DecentWorkAndEconomicGrowth"
+    ]
+  },
+  {
+    "communityId": "15b7e2bb-999c-4bc1-b3bc-6ae7f4e377dd",
+    "title": "Iniciativa de Fortalecimiento del Comercio Local y Justo",
+    "description": "Esta causa tiene como objetivo revitalizar el comercio local mediante el apoyo a pequeños emprendedores y la promoción de prácticas comerciales justas. Se implementarán programas de capacitación en gestión de negocios, marketing digital y atención al cliente, orientados a mejorar la competitividad de los productores locales. La iniciativa se enfocará en la creación de redes de colaboración que faciliten el acceso a financiamiento y a mercados más amplios. Además, se promoverá el consumo responsable y la valorización de productos regionales, impulsando un crecimiento económico equitativo y sostenible en la comunidad.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "DecentWorkAndEconomicGrowth",
+      "NoPoverty",
+      "ResponsibleConsumptionAndProduction"
+    ]
+  },
+  {
+    "communityId": "15b7e2bb-999c-4bc1-b3bc-6ae7f4e377dd",
+    "title": "Campaña de Promoción de la Salud Integral y Autocuidado",
+    "description": "Esta causa se propone mejorar la calidad de vida de los ciudadanos mediante la promoción de hábitos saludables y el autocuidado. Se llevarán a cabo talleres, charlas y actividades deportivas que incentiven la práctica regular de ejercicio, la alimentación balanceada y el manejo del estrés. La iniciativa busca generar conciencia sobre la importancia de la salud integral y la prevención de enfermedades, brindando herramientas y recursos que faciliten un estilo de vida saludable. Asimismo, se establecerán alianzas con centros de salud y profesionales especializados para garantizar el acceso a servicios preventivos y de atención médica de calidad.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "GoodHealthAndWellBeing",
+      "QualityEducation",
+      "ReducedInequalities"
+    ]
+  },
+  {
+    "communityId": "15b7e2bb-999c-4bc1-b3bc-6ae7f4e377dd",
+    "title": "Programa de Conservación Ambiental y Uso Eficiente de Recursos",
+    "description": "Esta causa está diseñada para promover prácticas ambientales responsables mediante la conservación de recursos naturales y el uso eficiente de la energía y el agua. Se desarrollarán campañas de sensibilización, talleres de reciclaje y proyectos de eficiencia energética en hogares y espacios públicos. La iniciativa tiene como meta reducir el impacto ambiental de las actividades cotidianas, fomentando una cultura de sostenibilidad y responsabilidad ecológica. Además, se implementarán sistemas de monitoreo y evaluación que permitan medir el impacto de las acciones y ajustar las estrategias para lograr un equilibrio entre el desarrollo económico y la preservación del entorno natural.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "ClimateAction",
+      "SustainableCitiesAndCommunities",
+      "ResponsibleConsumptionAndProduction"
+    ]
+  },
+  {
+    "communityId": "15b7e2bb-999c-4bc1-b3bc-6ae7f4e377dd",
+    "title": "Impulso a la Innovación y Colaboración Comunitaria",
+    "description": "Esta causa busca fomentar un entorno de innovación y colaboración en la comunidad a través de la creación de espacios de coworking, laboratorios de ideas y eventos de networking. Se promoverán iniciativas que conecten a emprendedores, técnicos y líderes locales, facilitando el intercambio de conocimientos y la generación de proyectos conjuntos. La iniciativa se centra en derribar barreras entre sectores y en potenciar la creatividad para enfrentar desafíos comunes. Con el apoyo de instituciones y expertos, se espera que esta plataforma contribuya al desarrollo de soluciones innovadoras que impulsen el progreso económico y social de la región.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "IndustryInnovationAndInfrastructure",
+      "DecentWorkAndEconomicGrowth",
+      "QualityEducation",
+      "PartnershipsForTheGoals"
+    ]
+  },
+  {
+    "communityId": "69115dd0-3486-4290-a98b-a680ffcc6928",
+    "title": "Iniciativa de Recuperación de Espacios Públicos y Cultura Local",
+    "description": "Esta causa se propone recuperar y transformar espacios públicos deteriorados en centros de cultura y convivencia. Se planea la rehabilitación de edificios históricos y parques, integrando elementos artísticos y culturales que refuercen la identidad local. La iniciativa incluye la organización de exposiciones, conciertos y actividades comunitarias que promuevan la participación ciudadana y el sentido de pertenencia. Además, se fomentará la colaboración con artistas y gestores culturales para desarrollar proyectos que resalten la historia y tradiciones de la comunidad, impulsando el desarrollo social y económico en un marco de sostenibilidad y respeto patrimonial.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "QualityEducation",
+      "SustainableCitiesAndCommunities",
+      "PartnershipsForTheGoals"
+    ]
+  },
+  {
+    "communityId": "69115dd0-3486-4290-a98b-a680ffcc6928",
+    "title": "Proyecto de Capacitación en Gestión de Proyectos Sociales",
+    "description": "Esta causa tiene como objetivo formar líderes capaces de gestionar proyectos sociales que respondan a las necesidades de la comunidad. Se impartirán cursos y talleres prácticos sobre planificación, financiamiento y ejecución de iniciativas comunitarias. La iniciativa busca dotar a los participantes de herramientas teóricas y prácticas que les permitan desarrollar proyectos de impacto social, fomentando el trabajo colaborativo y la innovación. Además, se establecerán redes de mentoría y apoyo entre expertos y emprendedores sociales, creando un ecosistema propicio para el desarrollo de soluciones integrales y sostenibles en el ámbito local.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "QualityEducation",
+      "DecentWorkAndEconomicGrowth",
+      "IndustryInnovationAndInfrastructure"
+    ]
+  },
+  {
+    "communityId": "69115dd0-3486-4290-a98b-a680ffcc6928",
+    "title": "Campaña de Sensibilización sobre el Cambio Climático",
+    "description": "Esta causa se enfoca en educar a la comunidad sobre los efectos del cambio climático y la importancia de adoptar prácticas sostenibles. Se organizarán charlas, seminarios y actividades de campo que expliquen el impacto ambiental y social de las actividades humanas. La iniciativa pretende generar un cambio de conciencia, impulsando la adopción de hábitos ecológicos y la participación en proyectos de mitigación. Además, se promoverá la colaboración entre escuelas, empresas y organizaciones ambientales para desarrollar campañas informativas y acciones concretas que reduzcan la huella de carbono, favoreciendo un futuro más resiliente y equilibrado para la comunidad.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "ClimateAction",
+      "QualityEducation",
+      "PartnershipsForTheGoals"
+    ]
+  },
+  {
+    "communityId": "69115dd0-3486-4290-a98b-a680ffcc6928",
+    "title": "Programa de Desarrollo de Habilidades Digitales para Adultos",
+    "description": "Esta causa está diseñada para actualizar las competencias digitales de adultos, facilitando su inclusión en el mundo tecnológico. Se ofrecerán cursos intensivos en el manejo de herramientas informáticas, redes sociales y aplicaciones de productividad, adaptados a distintos niveles de conocimiento. La iniciativa busca reducir la brecha digital y potenciar la empleabilidad de los participantes, brindándoles recursos y mentorías que les permitan aprovechar las oportunidades que ofrece la era digital. Asimismo, se promoverá el uso de tecnologías para optimizar procesos en pequeños negocios y emprendimientos locales, contribuyendo al desarrollo económico y social.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "QualityEducation",
+      "IndustryInnovationAndInfrastructure",
+      "DecentWorkAndEconomicGrowth"
+    ]
+  },
+  {
+    "communityId": "69115dd0-3486-4290-a98b-a680ffcc6928",
+    "title": "Fomento de la Economía Circular y Producción Responsable",
+    "description": "Esta causa tiene como meta impulsar la economía circular a través de la promoción de prácticas de reciclaje, reutilización y producción responsable. Se desarrollarán talleres y campañas informativas que incentiven la transformación de residuos en recursos, promoviendo el aprovechamiento óptimo de materiales. La iniciativa busca generar conciencia sobre el impacto ambiental de los modelos de producción tradicionales y ofrecer alternativas sostenibles que beneficien a la comunidad y al medio ambiente. Además, se fomentará la colaboración entre empresas, gobiernos y organizaciones sociales para implementar soluciones innovadoras que impulsen un crecimiento económico respetuoso con el entorno.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "ResponsibleConsumptionAndProduction",
+      "ClimateAction",
+      "DecentWorkAndEconomicGrowth"
+    ]
+  },
+  {
+    "communityId": "755a5617-188c-4b12-b710-33a1ec7de1ea",
+    "title": "Proyecto de Empoderamiento Juvenil y Liderazgo Comunitario",
+    "description": "Esta causa se centra en potenciar el liderazgo y la participación activa de los jóvenes en la comunidad. Se organizarán programas de mentoría, talleres de liderazgo y actividades que promuevan el emprendimiento social, brindando herramientas para el desarrollo personal y profesional. La iniciativa busca fortalecer la capacidad de los jóvenes para identificar y resolver problemáticas locales, incentivando su participación en la toma de decisiones. Además, se establecerán alianzas con instituciones educativas y organizaciones dedicadas al desarrollo juvenil, creando un ecosistema de apoyo que fomente el crecimiento y la innovación en el ámbito comunitario.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "QualityEducation",
+      "DecentWorkAndEconomicGrowth",
+      "ReducedInequalities"
+    ]
+  },
+  {
+    "communityId": "755a5617-188c-4b12-b710-33a1ec7de1ea",
+    "title": "Iniciativa de Fortalecimiento del Bienestar y Salud Comunitaria",
+    "description": "Esta causa tiene como objetivo mejorar el bienestar general de la comunidad mediante la implementación de programas de salud preventiva y actividades recreativas. Se realizarán jornadas de salud, talleres de nutrición y sesiones de ejercicio físico que involucren a familias y adultos mayores. La iniciativa se enfoca en crear entornos saludables y en promover estilos de vida activos, reduciendo la incidencia de enfermedades y mejorando la calidad de vida. Además, se promoverá la colaboración entre profesionales de la salud y líderes comunitarios, asegurando que cada acción se adapte a las necesidades específicas de la población local.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "GoodHealthAndWellBeing",
+      "QualityEducation",
+      "PartnershipsForTheGoals"
+    ]
+  },
+  {
+    "communityId": "755a5617-188c-4b12-b710-33a1ec7de1ea",
+    "title": "Campaña de Conservación de Recursos Naturales y Biodiversidad",
+    "description": "Esta causa se propone proteger y conservar los recursos naturales mediante la promoción de prácticas sustentables y la educación ambiental. Se llevarán a cabo actividades de reforestación, limpieza de ríos y campañas de concientización que involucren a escuelas y organizaciones locales. La iniciativa busca generar un compromiso colectivo con la preservación del entorno natural, promoviendo la biodiversidad y el uso responsable de los recursos. Asimismo, se incentivará la investigación y el monitoreo ambiental para evaluar el impacto de las acciones emprendidas, asegurando la sostenibilidad a largo plazo de los ecosistemas locales.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "ClimateAction",
+      "LifeOnLand",
+      "SustainableCitiesAndCommunities"
+    ]
+  },
+  {
+    "communityId": "755a5617-188c-4b12-b710-33a1ec7de1ea",
+    "title": "Programa de Inclusión Social y Oportunidades para Todos",
+    "description": "Esta causa está orientada a integrar a grupos vulnerables y marginados en la vida económica y social de la comunidad. Se desarrollarán programas de formación, asesoramiento y apoyo psicológico, facilitando el acceso a oportunidades laborales y educativas. La iniciativa se centra en derribar barreras y promover la equidad, creando redes de apoyo que impulsen la integración y la participación activa. Además, se establecerán alianzas con entidades públicas y privadas para garantizar recursos y financiamiento, asegurando un desarrollo inclusivo y sostenible que beneficie a todos los segmentos de la población.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "NoPoverty",
+      "ReducedInequalities",
+      "DecentWorkAndEconomicGrowth"
+    ]
+  },
+  {
+    "communityId": "755a5617-188c-4b12-b710-33a1ec7de1ea",
+    "title": "Fomento del Desarrollo Tecnológico y Educación Digital",
+    "description": "Esta causa tiene como meta impulsar el desarrollo tecnológico en la comunidad mediante la promoción de la educación digital y el acceso a herramientas informáticas. Se implementarán cursos de programación, talleres de robótica y seminarios sobre innovación tecnológica, dirigidos a niños, jóvenes y adultos. La iniciativa busca cerrar la brecha digital y fomentar la adopción de nuevas tecnologías que mejoren la competitividad y la calidad de vida. Además, se promoverá la creación de espacios colaborativos y la vinculación con empresas tecnológicas, facilitando la transferencia de conocimientos y la generación de soluciones innovadoras que respondan a las necesidades locales.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "QualityEducation",
+      "IndustryInnovationAndInfrastructure",
+      "DecentWorkAndEconomicGrowth"
+    ]
+  },
+  {
+    "communityId": "69f17d70-14aa-42f4-9d06-1736b6d1b9d5",
+    "title": "Iniciativa de Revitalización Económica y Empleo Digno",
+    "description": "Esta causa se propone estimular la economía local a través de la revitalización de negocios tradicionales y la creación de empleos dignos. Se desarrollarán programas de capacitación en gestión empresarial, asesorías y ferias de empleo que conecten a los productores con el mercado. La iniciativa busca transformar la estructura económica de la comunidad, promoviendo la innovación y la competitividad en un marco de equidad y justicia social. Además, se fomentará el uso de tecnologías modernas para optimizar procesos y aumentar la productividad, generando un impacto positivo en el bienestar de la población y en el crecimiento regional.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "DecentWorkAndEconomicGrowth",
+      "NoPoverty",
+      "QualityEducation"
+    ]
+  },
+  {
+    "communityId": "69f17d70-14aa-42f4-9d06-1736b6d1b9d5",
+    "title": "Proyecto de Innovación en Servicios Comunitarios",
+    "description": "Esta causa está diseñada para modernizar y mejorar los servicios ofrecidos a la comunidad mediante la innovación y la tecnología. Se implementarán plataformas digitales, sistemas de gestión y atención al ciudadano, que faciliten el acceso a recursos y la comunicación entre instituciones y habitantes. La iniciativa pretende optimizar la eficiencia de los servicios públicos y privados, haciendo más accesibles y transparentes las gestiones cotidianas. Asimismo, se promoverá la capacitación en el uso de estas herramientas digitales, fomentando una cultura de modernización y responsabilidad que impulse el desarrollo integral de la comunidad.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "IndustryInnovationAndInfrastructure",
+      "QualityEducation",
+      "PartnershipsForTheGoals"
+    ]
+  },
+  {
+    "communityId": "69f17d70-14aa-42f4-9d06-1736b6d1b9d5",
+    "title": "Campaña de Promoción de la Igualdad y Justicia Social",
+    "description": "Esta causa se enfoca en generar conciencia sobre la importancia de la igualdad de oportunidades y la justicia social. Se llevarán a cabo campañas de sensibilización, charlas y foros comunitarios que aborden temas de discriminación, derechos humanos y equidad de género. La iniciativa busca transformar las actitudes sociales y promover políticas inclusivas que beneficien a los sectores más vulnerables. Además, se incentivará la participación activa de la comunidad en la creación de soluciones y proyectos que contribuyan a un entorno más justo y equitativo, generando un impacto positivo en la cohesión y el bienestar social.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "GenderEquality",
+      "ReducedInequalities",
+      "PeaceJusticeAndStrongInstitutions"
+    ]
+  },
+  {
+    "communityId": "69f17d70-14aa-42f4-9d06-1736b6d1b9d5",
+    "title": "Programa de Apoyo a la Agricultura Familiar y Sostenible",
+    "description": "Esta causa tiene como objetivo fortalecer la agricultura familiar a través de la implementación de técnicas sostenibles y la promoción de mercados locales. Se ofrecerán capacitaciones en métodos de cultivo orgánico, manejo eficiente de recursos y comercialización de productos agrícolas. La iniciativa busca mejorar la productividad y la calidad de los cultivos, al tiempo que se preserva el medio ambiente y se fomenta la seguridad alimentaria. Además, se promoverá la formación de cooperativas y redes de apoyo que faciliten el intercambio de conocimientos y recursos, impulsando el desarrollo rural y la autosuficiencia de las familias campesinas.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "ZeroHunger",
+      "DecentWorkAndEconomicGrowth",
+      "CleanWaterAndSanitation"
+    ]
+  },
+  {
+    "communityId": "69f17d70-14aa-42f4-9d06-1736b6d1b9d5",
+    "title": "Fomento de la Creatividad y Cultura Emprendedora",
+    "description": "Esta causa se centra en impulsar la creatividad y el espíritu emprendedor mediante la realización de talleres, concursos y ferias que incentiven la generación de ideas innovadoras. Se promoverá la capacitación en áreas de diseño, tecnología y gestión empresarial, orientada a transformar ideas en proyectos viables. La iniciativa busca crear un entorno que estimule la innovación y la colaboración, conectando a emprendedores con mentores y recursos financieros. Además, se fomentará la cultura emprendedora a través de eventos y redes de contacto, contribuyendo a la diversificación de la economía local y a la creación de oportunidades de desarrollo sostenible.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "IndustryInnovationAndInfrastructure",
+      "QualityEducation",
+      "DecentWorkAndEconomicGrowth"
+    ]
+  },
+  {
+    "communityId": "37066b39-6af2-4fce-bbb7-fbfd9e58b9d7",
+    "title": "Proyecto de Mejoramiento de Infraestructuras y Espacios Públicos",
+    "description": "Esta causa tiene como finalidad transformar las infraestructuras y espacios públicos deteriorados en entornos modernos y funcionales. Se implementarán proyectos de rehabilitación de edificios, parques y calles, incorporando diseños innovadores y sostenibles. La iniciativa busca mejorar la calidad de vida de los habitantes, facilitando el acceso a servicios básicos y fomentando la cohesión social. Además, se promoverá la participación ciudadana en la planificación y ejecución de estos proyectos, asegurando que las mejoras respondan a las necesidades reales de la comunidad y contribuyan al desarrollo urbano integral.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "SustainableCitiesAndCommunities",
+      "DecentWorkAndEconomicGrowth",
+      "IndustryInnovationAndInfrastructure"
+    ]
+  },
+  {
+    "communityId": "37066b39-6af2-4fce-bbb7-fbfd9e58b9d7",
+    "title": "Iniciativa de Educación y Capacitación para el Desarrollo Rural",
+    "description": "Esta causa está orientada a impulsar el desarrollo rural mediante la educación y la capacitación de agricultores y emprendedores locales. Se ofrecerán cursos y talleres sobre técnicas de cultivo, manejo de recursos naturales y comercialización, con el fin de mejorar la productividad y la calidad de vida en zonas rurales. La iniciativa busca fortalecer el conocimiento y la autonomía de los productores, promoviendo prácticas sostenibles que conserven el medio ambiente. Asimismo, se fomentará la creación de redes de colaboración que faciliten el intercambio de experiencias y el acceso a nuevos mercados, impulsando un desarrollo económico inclusivo y resiliente.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "QualityEducation",
+      "DecentWorkAndEconomicGrowth",
+      "ClimateAction"
+    ]
+  },
+  {
+    "communityId": "37066b39-6af2-4fce-bbb7-fbfd9e58b9d7",
+    "title": "Campaña de Conservación del Medio Ambiente y Recursos Naturales",
+    "description": "Esta causa se propone proteger y conservar el entorno natural a través de la promoción de prácticas ecológicas y el uso eficiente de recursos. Se desarrollarán actividades de reforestación, limpieza de ríos y campañas de educación ambiental que involucren a escuelas y comunidades locales. La iniciativa tiene como meta reducir la huella ecológica y fomentar una cultura de sostenibilidad en la vida diaria. Además, se implementarán sistemas de monitoreo ambiental que permitan evaluar el impacto de las acciones emprendidas, asegurando la preservación de los ecosistemas y la biodiversidad para las futuras generaciones.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "ClimateAction",
+      "LifeOnLand",
+      "ResponsibleConsumptionAndProduction"
+    ]
+  },
+  {
+    "communityId": "37066b39-6af2-4fce-bbb7-fbfd9e58b9d7",
+    "title": "Programa de Desarrollo Integral y Apoyo a la Juventud",
+    "description": "Esta causa está diseñada para brindar apoyo integral a los jóvenes, combinando educación, capacitación y actividades recreativas que promuevan su desarrollo personal y profesional. Se ofrecerán programas de mentoría, talleres de habilidades blandas y encuentros de networking, orientados a fortalecer el liderazgo y la resiliencia. La iniciativa busca crear oportunidades que permitan a los jóvenes integrarse al mercado laboral y contribuir activamente al progreso de la comunidad. Además, se promoverá la participación en proyectos sociales y culturales que fomenten el sentido de pertenencia y el compromiso cívico, impulsando una transformación positiva en el entorno local.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "QualityEducation",
+      "DecentWorkAndEconomicGrowth",
+      "PartnershipsForTheGoals"
+    ]
+  },
+  {
+    "communityId": "37066b39-6af2-4fce-bbb7-fbfd9e58b9d7",
+    "title": "Fomento de la Innovación Social y Emprendimiento Sostenible",
+    "description": "Esta causa se centra en estimular la innovación social mediante la promoción de proyectos que integren tecnología, creatividad y responsabilidad ambiental. Se desarrollarán incubadoras de emprendimientos, hackatones y jornadas de ideas que permitan a los participantes convertir sus propuestas en iniciativas reales. La iniciativa pretende crear un ecosistema de apoyo donde se compartan recursos, conocimientos y experiencias, fomentando soluciones innovadoras que aborden desafíos comunitarios. Además, se incentivará la colaboración entre sectores público y privado, asegurando que los proyectos generen un impacto sostenible y contribuyan al desarrollo económico y social de la región.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "IndustryInnovationAndInfrastructure",
+      "QualityEducation",
+      "DecentWorkAndEconomicGrowth"
+    ]
+  },
+  {
+    "communityId": "79e1be82-440b-4b63-a86e-7cb7dd97db55",
+    "title": "Iniciativa de Salud y Bienestar para Comunidades Vulnerables",
+    "description": "Esta causa tiene como objetivo mejorar la calidad de vida de comunidades vulnerables mediante el acceso a servicios de salud y programas de bienestar integral. Se implementarán campañas de prevención, jornadas médicas y talleres sobre nutrición y salud mental, dirigidos a distintos grupos etarios. La iniciativa busca reducir las barreras en el acceso a la atención sanitaria, ofreciendo apoyo y recursos que promuevan un estilo de vida saludable. Además, se establecerán alianzas con profesionales y centros de salud para asegurar la continuidad de los servicios, creando una red de protección y cuidado para los más necesitados.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "GoodHealthAndWellBeing",
+      "QualityEducation",
+      "ReducedInequalities"
+    ]
+  },
+  {
+    "communityId": "79e1be82-440b-4b63-a86e-7cb7dd97db55",
+    "title": "Proyecto de Inclusión Digital y Alfabetización Tecnológica",
+    "description": "Esta causa está orientada a cerrar la brecha digital mediante la capacitación en competencias tecnológicas y el acceso a herramientas informáticas. Se ofrecerán cursos de alfabetización digital, talleres de programación y asesorías en el uso de dispositivos, dirigidos a adultos y jóvenes de la comunidad. La iniciativa pretende empoderar a los participantes, facilitándoles la integración en el mundo digital y mejorando sus oportunidades laborales. Además, se fomentará la creación de centros de acceso público a tecnología, garantizando que todos tengan la posibilidad de beneficiarse del avance tecnológico y de la información en la era digital.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "QualityEducation",
+      "IndustryInnovationAndInfrastructure",
+      "DecentWorkAndEconomicGrowth"
+    ]
+  },
+  {
+    "communityId": "79e1be82-440b-4b63-a86e-7cb7dd97db55",
+    "title": "Campaña de Revitalización Cultural y Patrimonial",
+    "description": "Esta causa se propone rescatar y promover el patrimonio cultural de la comunidad a través de la organización de eventos, exposiciones y talleres que difundan sus tradiciones y valores históricos. Se buscará involucrar a expertos en cultura, historiadores y artistas locales para desarrollar actividades que destaquen la riqueza cultural y fortalezcan la identidad regional. La iniciativa aspira a generar un sentido de orgullo y pertenencia entre los habitantes, incentivando la conservación de monumentos, costumbres y expresiones artísticas que han sido fundamentales en la formación de la comunidad.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "QualityEducation",
+      "PartnershipsForTheGoals",
+      "PeaceJusticeAndStrongInstitutions"
+    ]
+  },
+  {
+    "communityId": "79e1be82-440b-4b63-a86e-7cb7dd97db55",
+    "title": "Programa de Fortalecimiento de la Economía Local y Cooperativas",
+    "description": "Esta causa tiene como finalidad dinamizar la economía local a través del fomento de cooperativas y emprendimientos comunitarios. Se desarrollarán talleres de capacitación en gestión empresarial, asesorías financieras y ferias comerciales que faciliten la integración de productores y emprendedores. La iniciativa busca crear un entorno que potencie la colaboración y el intercambio de recursos, generando oportunidades de empleo y desarrollo sostenible. Además, se promoverá la participación activa de los ciudadanos en la toma de decisiones económicas, asegurando que el crecimiento sea inclusivo y responda a las necesidades de la comunidad.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "DecentWorkAndEconomicGrowth",
+      "NoPoverty",
+      "ReducedInequalities"
+    ]
+  },
+  {
+    "communityId": "79e1be82-440b-4b63-a86e-7cb7dd97db55",
+    "title": "Fomento de la Educación Ambiental y Sustentabilidad",
+    "description": "Esta causa se centra en la promoción de prácticas ambientales responsables y en la educación para el desarrollo sostenible. Se organizarán talleres, charlas y actividades prácticas sobre reciclaje, uso eficiente de recursos y conservación de la biodiversidad, dirigidos a niños, jóvenes y adultos. La iniciativa busca sensibilizar a la comunidad sobre la importancia de cuidar el medio ambiente y adoptar hábitos que reduzcan el impacto ecológico. Además, se promoverá la creación de proyectos colaborativos que integren a diferentes sectores, impulsando un cambio cultural hacia una mayor sustentabilidad y respeto por la naturaleza.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "ClimateAction",
+      "QualityEducation",
+      "ResponsibleConsumptionAndProduction"
+    ]
+  },
+  {
+    "communityId": "cc116bed-ae90-46e2-89cd-f197611c0b60",
+    "title": "Proyecto de Desarrollo Sostenible y Resiliencia Comunitaria",
+    "description": "Esta causa tiene como objetivo fortalecer la capacidad de la comunidad para enfrentar desafíos ambientales y sociales mediante el desarrollo sostenible. Se implementarán estrategias que integren la protección de recursos naturales, la gestión eficiente de riesgos y la promoción de prácticas resilientes. La iniciativa incluye la realización de talleres, simulacros y proyectos de infraestructura adaptativa que permitan a la comunidad prepararse ante emergencias y cambios climáticos. Además, se fomentará la participación activa de los ciudadanos en la identificación de soluciones y en la toma de decisiones, asegurando un futuro más seguro y sostenible para todos.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "ClimateAction",
+      "SustainableCitiesAndCommunities",
+      "DecentWorkAndEconomicGrowth"
+    ]
+  },
+  {
+    "communityId": "cc116bed-ae90-46e2-89cd-f197611c0b60",
+    "title": "Iniciativa de Empoderamiento y Capacitación para Adultos",
+    "description": "Esta causa está orientada a proporcionar a los adultos las herramientas necesarias para mejorar sus habilidades y competencias laborales. Se ofrecerán cursos de formación en áreas tecnológicas, financieras y de gestión, adaptados a las demandas actuales del mercado. La iniciativa busca fomentar la actualización profesional y la inserción en sectores productivos, reduciendo la brecha digital y generando oportunidades de desarrollo personal. Además, se promoverá el intercambio de experiencias y la mentoría, creando una red de apoyo que impulse el crecimiento individual y colectivo en la comunidad.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "QualityEducation",
+      "DecentWorkAndEconomicGrowth",
+      "IndustryInnovationAndInfrastructure"
+    ]
+  },
+  {
+    "communityId": "cc116bed-ae90-46e2-89cd-f197611c0b60",
+    "title": "Campaña de Promoción del Turismo Sostenible y Cultural",
+    "description": "Esta causa se propone revitalizar el sector turístico local mediante la promoción de atractivos culturales y naturales que respeten el medio ambiente. Se desarrollarán rutas turísticas, eventos culturales y programas de capacitación en hospitalidad, orientados a destacar la riqueza histórica y natural de la región. La iniciativa busca atraer visitantes de manera responsable, generando beneficios económicos y culturales para la comunidad. Además, se fomentará la colaboración entre entidades públicas y privadas para garantizar que el turismo se gestione de forma sostenible, protegiendo el patrimonio y fortaleciendo la identidad local.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "QualityEducation",
+      "SustainableCitiesAndCommunities",
+      "DecentWorkAndEconomicGrowth"
+    ]
+  },
+  {
+    "communityId": "cc116bed-ae90-46e2-89cd-f197611c0b60",
+    "title": "Programa de Rehabilitación y Apoyo Psicosocial",
+    "description": "Esta causa tiene como fin ofrecer servicios de rehabilitación y apoyo psicosocial a personas en situación de vulnerabilidad, promoviendo su reintegración social y emocional. Se implementarán terapias, talleres y actividades de acompañamiento que aborden tanto el bienestar mental como físico de los beneficiarios. La iniciativa se focaliza en brindar herramientas que permitan superar traumas y mejorar la calidad de vida, fomentando la resiliencia y el autocuidado. Además, se trabajará en conjunto con profesionales de la salud y organizaciones sociales, asegurando una atención integral y personalizada que contribuya a la recuperación y al desarrollo humano.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "GoodHealthAndWellBeing",
+      "ReducedInequalities",
+      "PartnershipsForTheGoals"
+    ]
+  },
+  {
+    "communityId": "cc116bed-ae90-46e2-89cd-f197611c0b60",
+    "title": "Fomento del Emprendimiento y la Innovación Local",
+    "description": "Esta causa se orienta a impulsar el emprendimiento local mediante la creación de programas de capacitación, mentoría y financiamiento para proyectos innovadores. Se desarrollarán incubadoras de negocios y se organizarán ferias y encuentros que permitan a los emprendedores presentar sus ideas y establecer conexiones con potenciales inversores. La iniciativa busca generar un entorno favorable para la creación de nuevas empresas y la diversificación de la economía regional, promoviendo prácticas responsables y sostenibles. Además, se fomentará el uso de tecnologías emergentes para optimizar procesos y aumentar la competitividad en el mercado local.",
+    "startDate": "2021-05-01T00:00:00.000Z",
+    "endDate": "2021-05-31T00:00:00.000Z",
+    "objectives": [
+      "IndustryInnovationAndInfrastructure",
+      "DecentWorkAndEconomicGrowth",
+      "QualityEducation"
+    ]
+  }
+]

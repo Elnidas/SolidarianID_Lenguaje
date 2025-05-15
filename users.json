@@ -1,0 +1,90 @@
+[
+  {
+    "firstName": "Ana",
+    "lastName": "García",
+    "birthDate": "1985-05-15",
+    "email": "ana.garcia@example.com",
+    "password": "Password123",
+    "role": "user",
+    "bio": "Maestra de primaria apasionada por la educación inclusiva y el desarrollo de habilidades en niños de comunidades marginadas. También me preocupa la salud infantil y el acceso a servicios médicos básicos.",
+    "showAge": false,
+    "showEmail": false
+  },
+  {
+    "firstName": "Carlos",
+    "lastName": "López",
+    "birthDate": "1990-07-20",
+    "email": "carlos.lopez@example.com",
+    "password": "Password123",
+    "role": "user",
+    "bio": "Voluntario en programas de alfabetización para jóvenes. Creo en el poder de la educación para transformar vidas.",
+    "showAge": false,
+    "showEmail": false
+  },
+  {
+    "firstName": "Laura",
+    "lastName": "Martínez",
+    "birthDate": "1988-03-10",
+    "email": "laura.martinez@example.com",
+    "password": "Password123",
+    "role": "user",
+    "bio": "Ambientalista dedicada a promover energías renovables y prácticas sostenibles en mi comunidad.",
+    "showAge": false,
+    "showEmail": false
+  },
+  {
+    "firstName": "Diego",
+    "lastName": "Fernández",
+    "birthDate": "1992-11-25",
+    "email": "diego.fernandez@example.com",
+    "password": "Password123",
+    "role": "user",
+    "bio": "Ingeniero especializado en energías limpias. Busco proyectos que impulsen la acción climática y la sostenibilidad, especialmente aquellos que incluyan educación ambiental para jóvenes.",
+    "showAge": false,
+    "showEmail": false
+  },
+  {
+    "firstName": "Sofía",
+    "lastName": "Ramírez",
+    "birthDate": "1987-09-30",
+    "email": "sofia.ramirez@example.com",
+    "password": "Password123",
+    "role": "user",
+    "bio": "Enfermera comprometida con mejorar el acceso a la salud en áreas rurales. Participo en campañas de vacunación y educación sanitaria.",
+    "showAge": false,
+    "showEmail": false
+  },
+  {
+    "firstName": "Miguel",
+    "lastName": "Torres",
+    "birthDate": "1983-12-05",
+    "email": "miguel.torres@example.com",
+    "password": "Password123",
+    "role": "user",
+    "bio": "Médico voluntario en clínicas móviles. Apoyo iniciativas que promuevan el bienestar integral y la salud preventiva.",
+    "showAge": false,
+    "showEmail": false
+  },
+  {
+    "firstName": "Elena",
+    "lastName": "Vargas",
+    "birthDate": "1995-02-18",
+    "email": "elena.vargas@example.com",
+    "password": "Password123",
+    "role": "user",
+    "bio": "Activista por la igualdad de género y los derechos de las minorías. Trabajo en proyectos que fomentan la inclusión social.",
+    "showAge": false,
+    "showEmail": false
+  },
+  {
+    "firstName": "Javier",
+    "lastName": "Ruiz",
+    "birthDate": "1980-08-22",
+    "email": "javier.ruiz@example.com",
+    "password": "Password123",
+    "role": "user",
+    "bio": "Abogado especializado en derechos humanos. Apoyo causas que luchan contra la discriminación y promueven la justicia social.",
+    "showAge": false,
+    "showEmail": false
+  }
+]

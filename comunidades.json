@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Educación para Todos",
+    "description": "Comunidad dedicada a mejorar el acceso a la educación de calidad en áreas vulnerables, con enfoque en niños y jóvenes.",
+    "ownerId": "94175190-0642-492f-afb8-5dc750785f43"
+  },
+  {
+    "name": "Acción Climática Local",
+    "description": "Grupo enfocado en promover prácticas sostenibles y el uso de energías renovables a nivel local.",
+    "ownerId": "94175190-0642-492f-afb8-5dc750785f43"
+  },
+  {
+    "name": "Salud Comunitaria",
+    "description": "Iniciativas para mejorar la salud y el bienestar en comunidades desfavorecidas, incluyendo campañas de salud preventiva.",
+    "ownerId": "94175190-0642-492f-afb8-5dc750785f43"
+  },
+  {
+    "name": "Igualdad y Derechos",
+    "description": "Comunidad que promueve la igualdad de género, los derechos humanos y la inclusión social.",
+    "ownerId": "94175190-0642-492f-afb8-5dc750785f43"
+  },
+  {
+    "name": "Arte y Cultura",
+    "description": "Fomento de actividades artísticas y culturales en la comunidad. No directamente relacionada con los perfiles principales.",
+    "ownerId": "94175190-0642-492f-afb8-5dc750785f43"
+  },
+  {
+    "name": "Tecnología para el Bien",
+    "description": "Uso de la tecnología para resolver problemas sociales, como educación digital o telemedicina.",
+    "ownerId": "94175190-0642-492f-afb8-5dc750785f43"
+  }
+]
